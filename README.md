@@ -1,4 +1,5 @@
 # Jaeger Performance Tests
 
-This project is for performance tests for **Jaeger** from https://jaeger.readthedocs.io/en/latest/getting_started/
+## NOTE: This repository is deprecated!  Tests have been moved to https://github.com/jaegertracing/jaeger-performance
+
 
