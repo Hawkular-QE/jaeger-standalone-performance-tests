@@ -19,7 +19,7 @@
         <fabric8-maven-plugin.version>3.5.35</fabric8-maven-plugin.version>
         <fabric8.openshift.client.version>3.1.8</fabric8.openshift.client.version>
         <glassfish.jersey.client.version>2.26</glassfish.jersey.client.version>
-        <jackson.version>2.9.10.1</jackson.version>
+        <jackson.version>2.9.10.3</jackson.version>
         <jaeger.version>0.24.0</jaeger.version>
         <javax.ws.rs.version>2.1</javax.ws.rs.version>
         <junit.version>4.12</junit.version>
